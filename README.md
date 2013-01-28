@@ -1,4 +1,4 @@
 FuelPHP-device
 ==============
 
-FuelPHP plug in order to determine the original device access.
+FuelPHP package in order to determine the original device access.
